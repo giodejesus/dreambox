@@ -278,7 +278,7 @@ html{
 .imagepanel6{
     flex:1;
     background-color:brown;
-    background-image: url(ehr.jpg);
+    background-image: url("images/ehr.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
