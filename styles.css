@@ -111,7 +111,7 @@ html{
     margin:0px;
     padding:0px;
     margin-left:0x;
-    background-image: url(images/raw/hcnetwork-hq.JPG);
+    background-image: url("images/raw/hcnetwork-hq.JPG");
     background-size: cover;
 }
 
