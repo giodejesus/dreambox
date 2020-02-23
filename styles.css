@@ -233,7 +233,7 @@ html{
 .imagepanel2{
     flex:1;
     background-color:brown;
-    background-image: url("imagesclassroom.jpg");
+    background-image: url("images/classroom2.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     
