@@ -247,7 +247,7 @@ html{
 .imagepanel3{
     flex:1;
     background-color:brown;
-    background-image: url(command-center.jpg);
+    background-image: url("images/command-center.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
