@@ -31,7 +31,7 @@ html{
 .tagboxtext{
     width:100%;
     height:100%;
-    background: url(images/hero-content.png)no-repeat;  
+    background: url(hero-content.png)no-repeat;  
     background-size:contain;
     
 }
@@ -111,7 +111,7 @@ html{
     margin:0px;
     padding:0px;
     margin-left:0x;
-    background-image: url(images/raw/hcnetwork-hq.JPG);
+    background-image: url(hcnetwork-hq.JPG);
     background-size: cover;
 }
 
@@ -226,14 +226,14 @@ html{
 .imagepanel{
     flex:1;
     background-color:black;
-    background-image: url(images/CIO\ photo.jpg);
+    background-image: url(CIO\ photo.jpg);
     background-size: cover;
      
 }
 .imagepanel2{
     flex:1;
     background-color:brown;
-    background-image: url(images/classroom.jpg);
+    background-image: url(classroom.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     
@@ -247,7 +247,7 @@ html{
 .imagepanel3{
     flex:1;
     background-color:brown;
-    background-image: url(images/command-center.jpg);
+    background-image: url(command-center.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
@@ -257,7 +257,7 @@ html{
 .imagepanel4{
     flex:1;
     background-color:brown;
-    background-image: url(images/data.jpg);
+    background-image: url(data.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
@@ -268,7 +268,7 @@ html{
 .imagepanel5{
     flex:1;
     background-color:brown;
-    background-image: url(images/hosting.jpg);
+    background-image: url(hosting.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     
@@ -278,7 +278,7 @@ html{
 .imagepanel6{
     flex:1;
     background-color:brown;
-    background-image: url(images/ehr.jpg);
+    background-image: url(ehr.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
