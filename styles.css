@@ -226,14 +226,14 @@ html{
 .imagepanel{
     flex:1;
     background-color:black;
-    background-image: url(CIO\ photo.jpg);
+    background-image: url("images/CIO photo.jpg");
     background-size: cover;
      
 }
 .imagepanel2{
     flex:1;
     background-color:brown;
-    background-image: url(classroom.jpg);
+    background-image: url("imagesclassroom.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     
@@ -257,7 +257,7 @@ html{
 .imagepanel4{
     flex:1;
     background-color:brown;
-    background-image: url(data.jpg);
+    background-image: url("images/data.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
@@ -268,7 +268,7 @@ html{
 .imagepanel5{
     flex:1;
     background-color:brown;
-    background-image: url(hosting.jpg);
+    background-image: url("images/hosting.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     
