@@ -31,7 +31,7 @@ html{
 .tagboxtext{
     width:100%;
     height:100%;
-    background-image:url(hero-content.png)no-repeat;  
+    background-image:url("hero-content.png")no-repeat;  
     background-size:contain;
     
 }
