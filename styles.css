@@ -33,7 +33,7 @@ html{
     height:100%;
     background-image:url("images/hero-content.png")no-repeat;  
     background-size:contain;
-    
+    background-image: url("images/command-center.jpg");
 }
 
 .logobox{
